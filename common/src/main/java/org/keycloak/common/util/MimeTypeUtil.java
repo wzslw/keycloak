@@ -29,7 +29,6 @@ public class MimeTypeUtil {
     static {
         map.addMimeTypes("text/css css CSS");
         map.addMimeTypes("text/javascript js JS");
-        map.addMimeTypes("text/javascript js JS");
         map.addMimeTypes("image/png png PNG");
         map.addMimeTypes("image/svg+xml svg SVG");
         map.addMimeTypes("text/html html htm HTML HTM");
